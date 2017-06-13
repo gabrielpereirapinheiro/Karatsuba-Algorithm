@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int show_message(int number)
 {
 	int value;
@@ -56,7 +57,7 @@ int karatusa(int n1,int n2)
 	int z0,z1,z2;
 	int z2_1,z2_2;
 	int b1,b2;
-
+	int result ;
 	b1 = base(n1);
 	b2 = base(n2);
 
@@ -81,7 +82,9 @@ int karatusa(int n1,int n2)
 
 	z1 = z1 - z2 - z0;
 
-	return z1;
+	result = z2*b1*b1 + z1*b1 + z0;
+
+	return result;
 }
 
 
