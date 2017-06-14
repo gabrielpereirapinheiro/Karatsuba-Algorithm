@@ -28,8 +28,8 @@ After this, use this :
 
 > $ ./a.out
 
- - And the programe will be run, dont use negative numbers .
+ - And the programe will be run, ```dont use negative``` numbers .
  
- 
+ _______________________________________________________________________________________________________________________________
  
  - Any question, send me an email, It  will be pleasure  ! 
