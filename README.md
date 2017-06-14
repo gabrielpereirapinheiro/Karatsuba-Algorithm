@@ -1,5 +1,4 @@
 # University of Brasilia (UnB)
-
 _________________________________________________________________________________________________________________________
 
 ### Developer:
@@ -29,6 +28,8 @@ After this, use this :
 
 > $ ./a.out
 
- - And the programe will be run.
+ - And the programe will be run, dont use negative numbers .
  
- - Dont use negative numbers 
+ 
+ 
+ - Any question, send me an email, It  will be pleasure  ! 
