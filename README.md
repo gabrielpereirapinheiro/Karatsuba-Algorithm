@@ -1,4 +1,4 @@
-# University of Brasilia (UnB)
+# Karatsuba Alogorithm
 _________________________________________________________________________________________________________________________
 
 ### Developer:
@@ -17,14 +17,23 @@ ________________________________________________________________________________
 - The Karatsuba algorithm is a fast multiplication algorithm.
 - Your complexity is O (n ^ 1.6) 
 - Discovered by Anatoly Karatsuba 
+- More about [Karatsuba](https://en.wikipedia.org/wiki/Karatsuba_algorithm)
 
 ### How execute :
 
-- Open the terminal in the folder where is the code and use this command :
+- Open the terminal and clone the directory with the command :
+
+> git clone https://github.com/gabrielpereirapinheiro/Karatsuba-Algorithm.git
+
+- After this open the folder ```Karatsuba``` with the command :
+
+> cd Karatsuba
+
+- And now compile the program with:
 
 > $ gcc karatsuba.c
 
-After this, use this :
+After this, use this to execute:
 
 > $ ./a.out
 
