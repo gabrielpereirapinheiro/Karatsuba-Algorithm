@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 - After this open the folder ```Karatsuba``` with the command :
 
-> cd Karatsuba
+> cd Karatsuba-Algorithm
 
 - And now compile the program with:
 
