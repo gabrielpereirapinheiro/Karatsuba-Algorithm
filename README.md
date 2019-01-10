@@ -9,15 +9,7 @@
 
 ### How execute :
 
-- Open the terminal and clone the directory with the command :
-
-> git clone https://github.com/gabrielpereirapinheiro/Karatsuba-Algorithm.git
-
-- After this open the folder ```Karatsuba``` with the command :
-
-> cd Karatsuba-Algorithm
-
-- And now compile the program with:
+- Open the terminal in the folder of the project and now compile the program with:
 
 > $ gcc karatsuba.c
 
@@ -27,6 +19,3 @@ After this, use this to execute:
 
  - And the programe will be run, ```dont use negative``` numbers .
  
- _______________________________________________________________________________________________________________________________
- 
- - Any question, send me an email, It  will be pleasure  ! 
