@@ -1,12 +1,4 @@
 # Karatsuba Alogorithm
-_________________________________________________________________________________________________________________________
-## Developer
-- [Gabriel Pereira Pinheiro](https://github.com/gabrielpereirapinheiro)
-- Email: gabriel.pereira.pinheiro@gmail.com
-- University of Brasilia - Brazil
-
-_____________________________________________________________________________________________________________________________
-
 
 ### About : 
 
